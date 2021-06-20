@@ -1,4 +1,4 @@
-# Minimal Simple for issue [spring-data-rest#2022](https://github.com/spring-projects/spring-data-rest/issues/2022)
+# A minimal simple for issue [spring-data-rest#2022](https://github.com/spring-projects/spring-data-rest/issues/2022)
 
 User
 ```java
